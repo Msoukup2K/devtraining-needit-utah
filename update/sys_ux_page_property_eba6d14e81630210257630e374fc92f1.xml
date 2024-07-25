@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="NeedIt">afa6154ece6302103bee5b68c7a12300</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 15:34:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>eba6d14e81630210257630e374fc92f1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_property_eba6d14e81630210257630e374fc92f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 15:34:06</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_58872_needit.afa6154ece6302103bee5b68c7a12300.root.wbApplicabilityConfigId</unique_name>
+        <value>f8b6554ec3630210cf95bfddd4013128</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=eba6d14e81630210257630e374fc92f1"/>
+</record_update>
